@@ -40,7 +40,7 @@ With **J = 1**, the quantum critical points lie at **g = ±1**. The primary line
 
 The finite-chain analysis uses **L = 128 spins**, corresponding to **64 positive-momentum sectors**, with antiperiodic momenta **k = (2m + 1)π/L** in the even-parity sector.
 
-![Equilibrium magnetization and bulk gap of the transverse-field Ising chain]((tfim_viridis_phase_diagram_modified-1.png)
+![Equilibrium magnetization and bulk gap of the transverse-field Ising chain](tfim_viridis_phase_diagram_modified-1.png)
 
 *Figure 1. Zero-temperature equilibrium phase structure: spontaneous magnetization distinguishes the ferromagnetic and paramagnetic regions, while the bulk quasiparticle gap closes at g/J = ±1. This provides the equilibrium context for the driven finite-temperature study.*
 
