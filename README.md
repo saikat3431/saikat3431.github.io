@@ -80,7 +80,7 @@ The common current cancels from the prescribed net transfer. Increasing it stren
 
 The engineered protocol keeps the mode-averaged excited-state population closer to the instantaneous thermal population than the natural-bath reference. Tracking deteriorates as the ramp becomes faster, but the engineered dynamics continue to reduce the departure in the cases studied.
 
-![Excited-state population during a single critical crossing](images/fig2-population-tracking.png)
+![Excited-state population during a single critical crossing](TFIM_population_four_velocities_vch_units-1.png)
 
 *Figure 2. Mode-averaged excited-state population during the g = 2 → 0 ramp at four driving rates. Engineered dynamics with Qₖ = 0 are compared with a natural thermal bath and the instantaneous thermal target. The dotted line marks g = 1.*
 
@@ -88,7 +88,7 @@ The engineered protocol keeps the mode-averaged excited-state population closer 
 
 The improvement persists for a ramp crossing both **g = 1** and **g = −1**, providing a robustness test beyond a single critical passage.
 
-![Excited-state population during two successive critical crossings](images/fig3-two-critical-points.png)
+![Excited-state population during two successive critical crossings](TFIM_two_ramps_double_QCP_vch_units-1.png)
 
 *Figure 3. Mode-averaged excited-state population during the g = 2 → −2 ramp at two driving rates, comparing engineered dynamics, natural-bath dynamics, and the instantaneous thermal target.*
 
@@ -100,7 +100,7 @@ At finite temperature, an excited-state population is not automatically an error
 
 This population-based measure reduces to the conventional excitation density when the target excited-state occupation vanishes. It does not, by itself, measure all differences between density matrices; coherence is assessed separately.
 
-![Thermal excitation deviation throughout the ramp](images/fig4-thermal-deviation.png)
+![Thermal excitation deviation throughout the ramp](thermal_excitation_deviation_vch_units-1.png)
 
 *Figure 4. Thermal excitation deviation during the primary ramp for unitary, natural-bath, and engineered dynamics at three driving rates. Engineered dissipation strongly reduces the deviation, including the residual departure after the critical crossing.*
 
@@ -110,7 +110,7 @@ The instantaneous thermal target has no off-diagonal coherence in the energy bas
 
 To explore the available freedom, we use **Qₖ = Γ λ₀,ₖ λ₁,ₖ**. Increasing **Γ** produces additional coherence suppression while preserving the prescribed net target-population current.
 
-![Coherence suppression with increasing common current](images/fig5-coherence.png)
+![Coherence suppression with increasing common current](coherence_suppression_Q_dependence_vch_units-1.png)
 
 *Figure 5. Mode-averaged absolute coherence in the instantaneous energy basis. The minimal-current protocol is compared with unitary and natural-bath dynamics; the fastest-ramp panel also shows Γ = 1, 1.5, and 2, in units of J/ℏ.*
 
@@ -122,7 +122,7 @@ The final thermal excitation deviation is evaluated at the end of the ramp and p
 - **Natural thermal bath:** the rate dependence shows a crossover associated with competing driving and relaxation timescales.
 - **Engineered dissipation:** the residual deviation is strongly suppressed and approaches the **(v/vch)²** reference behavior over a broad range of driving rates.
 
-![Final thermal deviation versus reduced driving rate](images/fig6-residual-scaling.png)
+![Final thermal deviation versus reduced driving rate](final_excitation_deviation_fixed_theory_slopes_vch_units-1.png)
 
 *Figure 6. Final thermal excitation deviation for the three dynamical cases. Dashed lines show the one-half and quadratic reference power laws; they are comparison guides, not fitted exponents. The results do not establish a universal quadratic exponent for all sizes, temperatures, or protocols.*
 
