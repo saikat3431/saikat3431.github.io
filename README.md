@@ -17,7 +17,7 @@ This website presents my research, numerical results, and the physical ideas beh
 **Saikat Mistry, Dibyajyoti Sahu, and Suhas Gangadharaiah**  
 Department of Physics, IISER Bhopal
 
-[Read the paper](papers/engineered-dissipation.pdf)
+[Read the paper](https://arxiv.org/abs/2609.39084)
 <!-- Add the verified arXiv abstract-page URL here when available. -->
 
 Preparing a quantum system in a desired state becomes difficult when its Hamiltonian changes rapidly. Near a quantum critical point, the energy gap becomes small, and finite-time driving generates excitations and coherence. A conventional thermal environment can relax the system, but it does not necessarily keep pace with a continuously changing thermal target.
